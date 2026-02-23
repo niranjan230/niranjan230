@@ -11,21 +11,21 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Explorer;React+%7C+Flutter+%7C+Deep+Learning;Building+Smart+Systems+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;AI+Systems+Developer;React+%7C+%7C+Deep+Learning;Building+Impactful+Technology" />
 </p>
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 CSE Student  
-- 🤖 Working on AI-powered and Full Stack applications  
-- 🧠 Experienced in CNN, UNet, RCCNN (Computer Vision)  
-- 🌐 Building scalable web apps using React & Next.js  
+-  CSE Student  
+-  Working on AI-powered and Full Stack applications  
+-  Experienced in CNN, UNet, RCCNN (Computer Vision)  
+-  Building scalable web apps using React & Next.js  
 
 ---
 
-## 🌍 Connect With Me
+##  Connect With Me
 
 <p align="left">
   <a href="mailto:kolliparaniranjan23@gmail.com">
@@ -37,12 +37,17 @@
 </p>
 
 ---
+##  Languages
+Python · Java · JavaScript · SQL · C++
 
-## Tech Stack
+##  Web & Backend
+React · Next.js · Node.js · Prisma · PostgreSQL · MongoDB · Tailwind
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i= html,css,js,python,java,react,nextjs,nodejs,tailwind,flutter,prisma,postgres,mysql,aws,gcp,git,mongodb,tensorflow,,opencv,pandas,sklearn,seaborn&perline=9" />
-</p>
+##  Cloud & Tools
+AWS · GCP · Git · Linux
+
+##  AI & ML
+Machine Learning · Deep Learning · TensorFlow · OpenCV · Pandas · Scikit-Learn
 
 ---
 
@@ -54,8 +59,6 @@
 - SQL & Database Systems
 
 ---
-
-
 
 <p align="center">
   <b><i>“Code. Learn. Build. Repeat.”</i></b>
