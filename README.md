@@ -31,25 +31,34 @@
   <a href="mailto:kolliparaniranjan23@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
+  
   <a href="https://www.linkedin.com/in/niranjan-kollipara-097610256/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
 </p>
 
----
-##  Languages
-Python · Java · JavaScript · SQL · C++
+##  Tech Stack
 
-##  Web & Backend
-React · Next.js · Node.js · Prisma · PostgreSQL · MongoDB · Tailwind
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,mysql" />
+</p>
 
-##  Cloud & Tools
-AWS · GCP · Git · Linux
+###  Web & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,prisma,postgres,mongodb,tailwind,bootstrap" />
+</p>
 
-##  AI & ML
-Machine Learning · Deep Learning · TensorFlow · OpenCV · Pandas · Scikit-Learn
+###  Cloud & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,git,linux,postman,figma" />
+</p>
 
----
+###  AI & ML
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,python,opencv,sklearn,seaborn" />
+</p>
+
 
 ###  Core Domains
 - Artificial Intelligence (AI)
@@ -57,9 +66,9 @@ Machine Learning · Deep Learning · TensorFlow · OpenCV · Pandas · Scikit-Le
 - Deep Learning
 - Computer Vision
 - SQL & Database Systems
+- Scalable Web Systems
 
 ---
-
 <p align="center">
   <b><i>“Code. Learn. Build. Repeat.”</i></b>
 </p>
